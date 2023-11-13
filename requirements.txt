@@ -1,0 +1,6 @@
+python-dotenv # To store secret crediantials like ignore this 
+aiogram # Telegram API connector / python package for Telegram
+openai 
+
+# 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
+
